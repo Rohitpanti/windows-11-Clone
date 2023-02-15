@@ -14,7 +14,7 @@ This is a  Basic Windows home Screen clone.
 
 
 ![header image](https://raw.github.com/Rohitpanti/windows-11-Clone/master/View1.png)
-![header image](https://raw.github.com/Rohitpanti/windows-11-Clone/master/View2.png)
+![header image](https://raw.github.com/Rohitpanti/windows-11-Clone/master/view2.png)
 
 
 ## Try Out:
